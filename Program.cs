@@ -1,4 +1,6 @@
 ﻿namespace Lab08___Library
+
+    // comment
 {
     internal class Program
     {
